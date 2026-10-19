@@ -105,7 +105,7 @@ Have a project, freelance gig, contract opportunity, or an idea you'd like to ex
 
 - 📧 Email: **[amaizn234@gmail.com](mailto:amaizn234@gmail.com)**
 - 💼 LinkedIn: **[Shaibu Abdulazeez](https://linkedin.com/in/shaibu-abdulazeez819a76429)**
-- 💻 GitHub: **[amaizn-dev](https://github.com/amaizn-dev)**
+- 💻 GitHub: **[amaizn-dev](https://github.com/Innovatoramaizn)**
 
 <div align="center">
 
